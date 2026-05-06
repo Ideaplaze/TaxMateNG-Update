@@ -1,0 +1,8 @@
+{
+  "latest_version_code": 5,
+  "min_required_version": 4,
+  "update_message": "A new version of TaxMateNG is available! Update now to access the latest FIRS tax features and stability improvements.",
+  "android_url": "https://play.google.com/store/apps/details?id=com.example.taxmateng",
+  "ios_url": "https://apps.apple.com/app/id6755863733",
+  "desktop_url": "https://www.enochigreen.com"
+}
